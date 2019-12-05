@@ -1,4 +1,4 @@
-# Universal-Copier-v2
+# Universal Copier version 2
 
 ###### Version 2 (Beta) | Released on 5th December, 2019 | Developed by [Tanmoy Sen Gupta](http://tanmoysg.com) 
 
